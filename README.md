@@ -1,1 +1,1 @@
-# Grupo-1-
+Actividad 2 — PRÁCTICA (HTML sin CSS) Meta: cada equipo construye un micrositio sin CSS (una página por estudiante) sobre la Semana de Innovación y Emprendimiento del Campus, aplicando tanto las etiquetas generales como las etiquetas específicas que investigaron en la Actividad 1. 
